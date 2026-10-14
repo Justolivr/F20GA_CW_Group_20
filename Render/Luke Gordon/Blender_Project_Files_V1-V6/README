@@ -1,0 +1,5 @@
+This folder contains various screenshots of incremental progress from the 1st October to the 14th October. 
+(I forgot to upload them to Github).
+Mainly just modelling the main character/object. 
+Various screenshots from the 11th show the model before and after optimisation .
+(From 17k triangles to 10k by removing the majority of unneccessary loops, as the quad based geomoetry wasn't needed for a flat mesh that isn't twisting/warping etc.)
