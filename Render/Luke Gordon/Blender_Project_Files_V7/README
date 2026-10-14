@@ -1,1 +1,4 @@
-
+1. Added a armature rig to the robot to allow for easier posing
+2. Created a dirt mound for the robot character to hold
+3. Added materials to the model
+4. Began adding in the camera and lighting in prep for final render
