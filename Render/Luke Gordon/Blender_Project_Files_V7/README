@@ -3,4 +3,6 @@ This folder contains the progress from the 11th to 14th October
 1. Added a armature rig to the robot to allow for easier posing
 2. Created a dirt mound for the robot character to hold
 3. Added materials to the model
-4. Began adding in the camera and lighting in prep for final render
+4. Created a flower within the dirt mound
+5. Added in the camera and lighting in prep for final render
+6. Started to create an object for the robot to sit upon
