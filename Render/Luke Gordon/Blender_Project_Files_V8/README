@@ -1,0 +1,4 @@
+This folder contains progress from the 14th to 15th October
+Changes include:
+  1. Sculpted and textured tree stump
+  2. Added grass (made by creating various flat grass png's in Krita, importing them into blender, then using geometry nodes to spread them everywhere)
