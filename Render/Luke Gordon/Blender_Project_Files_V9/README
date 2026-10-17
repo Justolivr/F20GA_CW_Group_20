@@ -1,0 +1,7 @@
+This folder contains progress from the 15th to 17th October
+Changes include:
+  1. Added flat trees in the background
+  2. Added another main light source in the background to simulate the sun
+  3. Added more light rays in the background
+  4. Added branches in the foreground to frame the scene
+  5. Miscellaneous tweaks in prep for final render
