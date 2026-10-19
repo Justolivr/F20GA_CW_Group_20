@@ -1,0 +1,3 @@
+This folder contains the initial import of the Blender scene into unreal
+All meshes were imported correctly
+Most material's base colours were imported correctly, though they are missing detail (Roughness, emmission, normals, etc.)
