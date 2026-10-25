@@ -1,2 +1,3 @@
 To fix all the materials I went back into blender and baked all of the textures allowing me to reimport with minimal changes necessary
+I also fixed a few of the models/materials such as the grass. I removed the ground from the blender mesh and added terrain via UE's landscape modeller
 Additionally, since V1 I have added lighting, some atmospherics, and a skybox
