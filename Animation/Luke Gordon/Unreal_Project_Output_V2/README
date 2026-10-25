@@ -1,3 +1,5 @@
-To fix all the materials I went back into blender and baked all of the textures allowing me to reimport with minimal changes necessary
-I also fixed a few of the models/materials such as the grass. I removed the ground from the blender mesh and added terrain via UE's landscape modeller
-Additionally, since V1 I have added lighting, some atmospherics, and a skybox
+Changes made since V1 include:
+- Fixed all the materials by going back into blender fixing the UVs and then baking all of the textures, allowing for minimal changes needed in Unreal Engine
+- Imported the armature rig from my blender model for posing the robot
+- Fixed a few of the models & materials such as the grass. I removed the ground from the blender mesh and added terrain via UE's landscape modeller
+- Added lighting, some atmospherics, and a skybox
